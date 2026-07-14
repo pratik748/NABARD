@@ -1,0 +1,17 @@
+{
+  "short_name": "NABARD Survey",
+  "name": "NABARD Offline Village Survey Assistant",
+  "description": "Offline-first speech-to-text voice assistant for rural village surveys.",
+  "icons": [
+    {
+      "src": "/src/assets/images/app_icon_512_1784051140330.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#090d16",
+  "theme_color": "#10b981",
+  "display": "standalone",
+  "orientation": "portrait"
+}
